@@ -5,4 +5,5 @@ scikit-learn
 google-generativeai
 python-dotenv
 matplotlib
+google-genai
 reportlab
