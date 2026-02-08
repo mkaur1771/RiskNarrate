@@ -1,4 +1,4 @@
-# RiskNarrate – AI Financial Risk Copilot (Gemini 3 Hackathon)
+# RiskNarrate – AI Financial Risk Copilot
 
 RiskNarrate is a Streamlit-based AI copilot that helps explain a customer’s financial risk in plain language.  
 It combines **deterministic risk scoring + forecasting** with **Gemini-powered reasoning** to generate actionable insights, lender-fit explanations, and downloadable PDF reports.
