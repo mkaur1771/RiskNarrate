@@ -1,0 +1,13 @@
+1) Create environment (optional but recommended)
+python -m venv .venv
+# Windows: .venv\Scripts\activate
+
+2) Install dependencies
+#pip install -r requirements.txt
+
+3) Add your Gemini API key
+#setx GEMINI_API_KEY "YOUR_KEY"
+Your agent.py should read this key (example: os.getenv("GEMINI_API_KEY")).
+
+4) Run the app
+streamlit run app.py
